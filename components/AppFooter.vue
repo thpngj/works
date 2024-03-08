@@ -4,7 +4,7 @@
           <div class="flex flex-col justify-center lg:flex-row lg:justify-between">
             <div class="flex justify-center lg:justify-start">
               <div class="">
-                <Logo class="scale-75"></Logo>
+                <Logo class="scale-75 lg:scale-100"></Logo>
                 <div class="text-gray-500 mt-2 lg:hidden">专注技术 · 用心至诚</div>
               </div>
             </div>
