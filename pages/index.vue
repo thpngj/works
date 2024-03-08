@@ -159,7 +159,11 @@
     </div>
     
 </template>
-
+<script setup>
+ useHead({
+    title:'作品案例'
+ })
+</script>
 <style scoped>
 .bgi_case{background-image: url('../assets/banner/hero.jpg')}
 .dark .bgi_case{background-image: url('../assets/banner/case_01.jpg')}

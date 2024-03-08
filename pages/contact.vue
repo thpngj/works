@@ -19,7 +19,11 @@
           </div>
     </div>
 </template>
-
+<script setup>
+    useHead({
+        title:'联系方式'
+    })
+</script>
 <style scoped>
     .bgi_sol{background-image: url('../assets/banner/solution_02.jpg')}
 .dark .bgi_sol{background-image: url('../assets/banner/solution_01.jpg')}
